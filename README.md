@@ -110,4 +110,4 @@ scikit-learn’s NearestNeighbors (brute force, Euclidean distance) is used to r
 - Top 5–6 most similar items are displayed
 
 ## Author
-**Hrishikesh Suryawanshi**
+**Harshada Bhayekar**
